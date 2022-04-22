@@ -15,11 +15,11 @@
   background-position: center center;
   background-size: cover;
   opacity: 0.6;
-  background-image: url(https://i.ibb.co/qLHMzJL/fondo2v.jpg);
+  background-image: url(fondo-m.jpg);
 }
 @media screen and (min-width: 992px) {
   .particulas::before {
-    background-image: url(https://i.ibb.co/YhmCQQ4/fondo2-blur.jpg);
+    background-image: url(fondo-d.jpg);
   }
 }
 
